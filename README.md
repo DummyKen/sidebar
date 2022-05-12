@@ -1,2 +1,2 @@
 # sidebar
-Sidebar Project from `15 vanilla JS projects course`
+Side bar menu with sub menu using JS
